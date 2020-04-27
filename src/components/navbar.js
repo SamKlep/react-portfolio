@@ -59,7 +59,7 @@ class NavBar extends React.Component {
                   </li>
                   <li>
                     <NavLink to='/portfolio' className='nav-Link'>
-                      Projects
+                      Portfolio
                     </NavLink>
                   </li>
                   {/* <li><NavLink to="/blog-details" className="nav-Link">Single</NavLink></li> */}
