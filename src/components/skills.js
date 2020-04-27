@@ -23,7 +23,7 @@ const Skills = () => {
               </p>
               <div style={{ textAlign: 'left' }}>
                 <a className='amike-btn bordered mt-3' href='#'>
-                  Hire Me Now
+                  My Resume
                 </a>
               </div>
             </div>
@@ -39,25 +39,25 @@ const Skills = () => {
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.4s'>
-              <p>Python</p>
+              <p>React</p>
               <div
                 className='skill-bar wow slideInLeft animated'
-                style={{ width: '80%' }}
+                style={{ width: '100%' }}
               >
-                <span className='skill-count'>80%</span>
+                <span className='skill-count'>100%</span>
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.6s'>
-              <p>Photoshop</p>
+              <p>Python</p>
               <div
                 className='skill-bar wow slideInLeft animated'
-                style={{ width: '90%' }}
+                style={{ width: '85%' }}
               >
-                <span className='skill-count'>90%</span>
+                <span className='skill-count'>85%</span>
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.8s'>
-              <p>InDesign</p>
+              <p>Adobe CS</p>
               <div
                 className='skill-bar wow slideInLeft animated'
                 style={{ width: '90%' }}

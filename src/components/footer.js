@@ -71,7 +71,14 @@ class Footer extends React.Component {
             </div>
           </div>
           <div className='copyright-text'>
-            Copyright © 2020 <a href='#'>SK</a>
+            Copyright © 2020{' '}
+            <a href='#'>
+              <img
+                src='/assets/images/sk-logo-4.png'
+                width={80}
+                height={80}
+              ></img>
+            </a>
           </div>
         </footer>
         <div id='backtotop'>
