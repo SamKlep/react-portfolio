@@ -7,7 +7,7 @@ const Contact = () => {
         <div className='row justify-content-center'>
           <div className='col-lg-6'>
             <div className='section-title wow fadeInUp' data-wow-delay='0.2s'>
-              <span>Have Any Query?</span>
+              <span>Have Any Questions?</span>
               <h2>
                 Contact Me
                 <span className='span-inline' />
