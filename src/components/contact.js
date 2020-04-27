@@ -26,8 +26,8 @@ const Contact = () => {
             <div className='address wow fadeInLeft' data-wow-delay='0.2s'>
               <a href='#'>
                 <i className='fa-fw fa fa-map-marker' />
-                <span>Locate us</span>
-                <p>King Street, Melbourne Victoria</p>
+                <span>Locate Me</span>
+                <p>Houston, TX</p>
               </a>
             </div>
           </div>
@@ -35,8 +35,8 @@ const Contact = () => {
             <div className='address'>
               <a href='#'>
                 <i className='fa-fw fa fa-phone' />
-                <span>Give us a call</span>
-                <p>Office: +01-2345-6789</p>
+                <span>Give me a call</span>
+                <p>Phone: (713) 376 - 9541</p>
               </a>
             </div>
           </div>
@@ -45,7 +45,7 @@ const Contact = () => {
               <a href='#'>
                 <i className='fa-fw fa fa-envelope-o' />
                 <span>Get in online</span>
-                <p>contact@example.com</p>
+                <p>samklepdev@gmail.com</p>
               </a>
             </div>
           </div>

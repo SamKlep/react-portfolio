@@ -50,7 +50,7 @@ class Banner extends React.Component {
               </ul>
 
               <div className='align-middle'>
-                <h1>I am Samuel Klepper</h1>
+                <h1>I am Samuel</h1>
                 <p>
                   A professinal designer turned developer with the eye for
                   creative solutions.
@@ -85,7 +85,7 @@ class Banner extends React.Component {
                 <img
                   width={508}
                   height={729}
-                  src='assets/images/man-01.png'
+                  src='assets/images/self-border2.png'
                   className='attachment-full size-full'
                   alt='about me image'
                 />{' '}

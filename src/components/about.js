@@ -21,7 +21,7 @@ const About = () => {
             className='col-lg-5 text-center wow fadeInLeft'
             data-wow-delay='0.2s'
           >
-            <img src='assets/images/me-01-alt.png' title='me-01' alt='me-01' />
+            <img src='assets/images/self-nobg.png' title='me-01' alt='me-01' />
           </div>
           <div
             className='col-lg-7 my-auto wow fadeInRight'
