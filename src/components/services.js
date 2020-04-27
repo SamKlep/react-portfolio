@@ -31,8 +31,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Web Development</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Full-stack functionality that features user-friendly design
+                  and clear navigation.
                 </p>
               </div>
             </div>
@@ -45,8 +45,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Graphic Design</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Professional production design that inspires and informs
+                  consumers.
                 </p>
               </div>
             </div>
