@@ -33,31 +33,31 @@ const Skills = () => {
               <p>Node JS</p>
               <div
                 className='skill-bar wow slideInLeft animated'
-                style={{ width: '88%' }}
+                style={{ width: '100%' }}
               >
-                <span className='skill-count'>88%</span>
+                <span className='skill-count'>100%</span>
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.4s'>
               <p>Python</p>
               <div
                 className='skill-bar wow slideInLeft animated'
-                style={{ width: '81%' }}
+                style={{ width: '80%' }}
               >
-                <span className='skill-count'>81%</span>
+                <span className='skill-count'>80%</span>
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.6s'>
-              <p>Laravel</p>
+              <p>Photoshop</p>
               <div
                 className='skill-bar wow slideInLeft animated'
-                style={{ width: '70%' }}
+                style={{ width: '90%' }}
               >
-                <span className='skill-count'>70%</span>
+                <span className='skill-count'>90%</span>
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.8s'>
-              <p>SEO</p>
+              <p>InDesign</p>
               <div
                 className='skill-bar wow slideInLeft animated'
                 style={{ width: '90%' }}
