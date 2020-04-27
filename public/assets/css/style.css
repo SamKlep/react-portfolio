@@ -268,6 +268,11 @@ button:focus {
     background: rgb(71, 71, 71);
 }
 
+#sam-face {
+    height: 325px;
+    width: 300px;
+}
+
 .section-partner {
     padding-top: 80px;
     padding-bottom: 10px;
@@ -298,7 +303,7 @@ body.admin-bar .fixed-top {
 
 .navbar.fixed-top {
     -webkit-box-shadow: 0px 18px 40px -30px #23263a;
-    background: rgb(71, 71, 71);
+    background: black;
     box-shadow: 0px 18px 40px -30px #23263a;
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -1748,7 +1753,7 @@ body.admin-bar .fixed-top {
     width: 60px;
     height: 60px;
     color: #fff;
-    background: #1be7ff;
+    background: #5566ff;
     text-align: center;
     padding: 13px;
     border-radius: 50%;
@@ -1767,7 +1772,7 @@ body.admin-bar .fixed-top {
 
 .copyright-text {
     padding: 30px 0;
-    background: rgb(71, 71, 71);
+    background: black
 }
 
 .copyright-text p {

@@ -22,7 +22,8 @@ const About = () => {
             data-wow-delay='0.2s'
           >
             <img
-              src='/assets/images/self-porttrait-front.png'
+              id='sam-face'
+              src='/assets/images/sam-face-bg.png'
               title='me-01'
               alt='me-01'
             />
