@@ -85,7 +85,7 @@ class Banner extends React.Component {
                 <img
                   width={508}
                   height={729}
-                  src='assets/images/self-border2.png'
+                  src='/assets/images/self-portrait-sam.png'
                   className='attachment-full size-full'
                   alt='about me image'
                 />{' '}

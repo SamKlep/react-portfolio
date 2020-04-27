@@ -21,7 +21,7 @@
 --------------------------------------------------------------*/
 body {
     font-family: Poppins;
-    background: #1be7ff;
+    background: rgb(85, 85, 85);
     color: #dfdfdf;
     line-height: 26px;
 }
@@ -265,7 +265,7 @@ button:focus {
 }
 
 .alt-color {
-    background: #6eeb83;
+    background: rgb(71, 71, 71);
 }
 
 .section-partner {
@@ -298,7 +298,7 @@ body.admin-bar .fixed-top {
 
 .navbar.fixed-top {
     -webkit-box-shadow: 0px 18px 40px -30px #23263a;
-    background: #5566ff;
+    background: rgb(71, 71, 71);
     box-shadow: 0px 18px 40px -30px #23263a;
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -348,13 +348,13 @@ body.admin-bar .fixed-top {
 /*--------------------------------------------------------------
 # Banner
 --------------------------------------------------------------*/
-.banner {
+/* .banner {
     /* background: url(../../assets/images/bg.jpg); */
-    /* background-repeat: no-repeat;
+/* background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     padding: 100px 0 0; */
-}
+/* } */
 
 .about_me_image {
     margin: 0 auto;
@@ -1720,7 +1720,7 @@ body.admin-bar .fixed-top {
 --------------------------------------------------------------*/
 
 .site-footer {
-    background: #5566ff;
+    background: rgb(165, 165, 165);
     text-align: center;
     padding: 100px 0 0;
 }
@@ -1767,7 +1767,7 @@ body.admin-bar .fixed-top {
 
 .copyright-text {
     padding: 30px 0;
-    background: #5566ff;
+    background: rgb(71, 71, 71);
 }
 
 .copyright-text p {
