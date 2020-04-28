@@ -77,7 +77,7 @@ const About = () => {
                   <strong>
                     <span>LinkedIn:</span>
                   </strong>
-                  <p>sambo123</p>
+                  <p>https://www.linkedin.com/in/samuel-klepper-0435b5193/</p>
                 </div>
               </div>
             </div>

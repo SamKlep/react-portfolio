@@ -32,7 +32,7 @@ const Services = () => {
                 <h5>Web Development</h5>
                 <p>
                   Full-stack functionality that features user-friendly design
-                  and clear navigation.
+                  and clear navigation
                 </p>
               </div>
             </div>
@@ -46,7 +46,7 @@ const Services = () => {
                 <h5>Graphic Design</h5>
                 <p>
                   Professional production design that inspires and informs
-                  consumers.
+                  consumers
                 </p>
               </div>
             </div>
@@ -59,8 +59,7 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Web Design</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Functional user friendly interface with clean design patterns
                 </p>
               </div>
             </div>
@@ -73,8 +72,7 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>App Developing</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Cross-platform functionality that meets the needs of consumers
                 </p>
               </div>
             </div>
@@ -87,8 +85,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Photography</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Creative eye for design that captivates the viewer with every
+                  shot
                 </p>
               </div>
             </div>
@@ -101,8 +99,7 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>SEO Expert</h5>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing typesetting
-                  industry. simply dummy
+                  Optimizing content for best placement in search engine queries
                 </p>
               </div>
             </div>

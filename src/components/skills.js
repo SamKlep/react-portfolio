@@ -57,7 +57,7 @@ const Skills = () => {
               </div>
             </div>
             <div className='skill wow fadeInUp' data-wow-delay='0.8s'>
-              <p>Adobe CS</p>
+              <p>Adobe CC</p>
               <div
                 className='skill-bar wow slideInLeft animated'
                 style={{ width: '90%' }}
