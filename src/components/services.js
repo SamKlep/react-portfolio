@@ -45,8 +45,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Graphic Design</h5>
                 <p>
-                  Professional production design that inspires and informs
-                  consumers
+                  Professional production design that inspires, informs and
+                  dazzles the viewer
                 </p>
               </div>
             </div>
@@ -59,7 +59,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Web Design</h5>
                 <p>
-                  Functional user friendly interface with clean design patterns
+                  Modern approach to responsive design that always has the UI/UX
+                  and end result in mind
                 </p>
               </div>
             </div>
@@ -72,7 +73,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>App Developing</h5>
                 <p>
-                  Cross-platform functionality that meets the needs of consumers
+                  From design to deployment, cross-platform compatability will
+                  always be a central focus
                 </p>
               </div>
             </div>
@@ -99,7 +101,8 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>SEO Expert</h5>
                 <p>
-                  Optimizing content for best placement in search engine queries
+                  Always optimizing content for the best placement in search
+                  engine queries
                 </p>
               </div>
             </div>
