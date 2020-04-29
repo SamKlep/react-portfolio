@@ -42,11 +42,11 @@ class Banner extends React.Component {
                     <i className='fa fa-linkedin' />
                   </a>
                 </li>
-                <li className='list-inline-item'>
+                {/* <li className='list-inline-item'>
                   <a href='#'>
                     <i className='fa fa-instagram' />
                   </a>
-                </li>
+                </li> */}
               </ul>
 
               <div className='align-middle'>
