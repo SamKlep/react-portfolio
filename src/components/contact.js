@@ -13,8 +13,7 @@ const Contact = () => {
                 <span className='span-inline' />
               </h2>
               <p className='title-desc'>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum standard dummy text.
+                Have an Idea for a project? Need assistance promoting your business? Go ahead and drop a line and I will get back to you promptly.
               </p>
             </div>
           </div>
@@ -24,7 +23,7 @@ const Contact = () => {
         <div className='row'>
           <div className='col-lg-4'>
             <div className='address wow fadeInLeft' data-wow-delay='0.2s'>
-              <a href='#'>
+              <a href='https://www.google.com/maps/place/Houston,+TX/@29.8159897,-95.9630907,9z/data=!3m1!4b1!4m5!3m4!1s0x8640b8b4488d8501:0xca0d02def365053b!8m2!3d29.7604267!4d-95.3698028?hl=en' target='_blank' rel="noopener noreferrer">
                 <i className='fa-fw fa fa-map-marker' />
                 <span>Locate Me</span>
                 <p>Houston, TX</p>
@@ -33,7 +32,7 @@ const Contact = () => {
           </div>
           <div className='col-lg-4 wow fadeInUp' data-wow-delay='0.2s'>
             <div className='address'>
-              <a href='#'>
+              <a href='tel:7133769541' target='_blank' rel="noopener noreferrer">
                 <i className='fa-fw fa fa-phone' />
                 <span>Give me a call</span>
                 <p>Phone: (713) 376 - 9541</p>
@@ -42,7 +41,7 @@ const Contact = () => {
           </div>
           <div className='col-lg-4 wow fadeInRight' data-wow-delay='0.2s'>
             <div className='address'>
-              <a href='#'>
+              <a href='mailto:samklepdev@gmail.com' target='_blank' rel="noopener noreferrer">
                 <i className='fa-fw fa fa-envelope-o' />
                 <span>Get in online</span>
                 <p>samklepdev@gmail.com</p>

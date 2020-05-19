@@ -8,9 +8,9 @@ const Portfolio = () => {
         <div className='row justify-content-center'>
           <div className='col-lg-6'>
             <div className='section-title wow fadeInUp' data-wow-delay='0.2s'>
-              <span>Latest Project</span>
+              <span>Portfolio</span>
               <h2>
-                Latest Project
+                Latest Projects
                 <span className='span-inline' />
               </h2>
               <p className='title-desc'>
@@ -129,7 +129,7 @@ const Portfolio = () => {
                 </div>
                 <h5>
                   <NavLink to='/blog-details'>
-                  A Place for Realtors to list and sell houses
+                  A Place for Realtors to List and Sell Houses
                   </NavLink>
                 </h5>
                 <NavLink to='/blog-details'>
