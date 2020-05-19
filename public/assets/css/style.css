@@ -265,12 +265,12 @@ button:focus {
 }
 
 .alt-color {
-    background: #282828;
+    background: #1f1f1f;
 }
 
 #sam-face {
     height: 275px;
-    width: 275px;
+    width: 250px;
 }
 
 .section-partner {
@@ -303,7 +303,7 @@ body.admin-bar .fixed-top {
 
 .navbar.fixed-top {
     -webkit-box-shadow: 0px 18px 40px -30px #23263a;
-    background: black;
+    background: #190061;
     box-shadow: 0px 18px 40px -30px #23263a;
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
@@ -1770,7 +1770,7 @@ body.admin-bar .fixed-top {
 
 .copyright-text {
     padding: 30px 0;
-    background: black
+    background: #190061;
 }
 
 .copyright-text p {

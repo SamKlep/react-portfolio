@@ -23,7 +23,7 @@ const About = () => {
           >
             <img
               id='sam-face'
-              src='/assets/images/sam-face-bg.png'
+              src='/assets/images/sam-face1.png'
               title='me-01'
               alt='me-01'
             />

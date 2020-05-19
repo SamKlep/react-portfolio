@@ -1,6 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import ModalVideo from 'react-modal-video';
 
 class Banner extends React.Component {
   constructor() {
@@ -23,22 +21,22 @@ class Banner extends React.Component {
             <div className='col-md-12 col-lg-7'>
               <ul className='list-inline social'>
                 <li className='list-inline-item'>
-                  <a href='#'>
+                  <a href='mailto:samklepdev@gmail.com' target='_blank' rel="noopener noreferrer">
                     <i className='fa fa-google' />
                   </a>
                 </li>
                 <li className='list-inline-item'>
-                  <a href='#'>
+                  <a href='https://github.com/SamKlep' target='_blank' rel="noopener noreferrer">
                     <i className='fa fa-github' />
                   </a>
                 </li>
                 <li className='list-inline-item'>
-                  <a href='#'>
+                  <a href='https://digitalcrafts.slack.com/team/samuelklepper' target='_blank' rel="noopener noreferrer">
                     <i className='fa fa-slack' />
                   </a>
                 </li>
                 <li className='list-inline-item'>
-                  <a href='#'>
+                  <a href='https://www.linkedin.com/in/samuel-klepper-0435b5193/' target='_blank' rel="noopener noreferrer">
                     <i className='fa fa-linkedin' />
                   </a>
                 </li>
@@ -85,7 +83,7 @@ class Banner extends React.Component {
                 <img
                   width={508}
                   height={729}
-                  src='/assets/images/self-portrait-sam.png'
+                  src='/assets/images/sam-portrait.png'
                   className='attachment-full size-full'
                   alt='Samuel K'
                 />{' '}

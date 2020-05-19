@@ -1,6 +1,6 @@
 import React from 'react';
 import $ from 'jquery';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class Footer extends React.Component {
   componentDidMount() {
@@ -33,7 +33,7 @@ class Footer extends React.Component {
                 <div className='col-lg-9 col-sm-10 mb-4'>
                   <div className='mb-5'>
                     <Link to='/' className='custom-logo-link' rel='home'>
-                      <img src='/assets/images/sk-logo-4.png' />
+                      <img src='/assets/images/sk-logo-4.png' alt='logo' />
                     </Link>
                   </div>
                   <p className='footer-text'>
@@ -45,22 +45,22 @@ class Footer extends React.Component {
                   <div className='footer-social'>
                     <ul className='list-inline'>
                       <li className='list-inline-item'>
-                        <a href='#' target='_blank'>
+                        <a href='mailto:samklepdev@gmail.com' target='_blank' rel="noopener noreferrer">
                           <i className='fa fa-google' />
                         </a>
                       </li>
                       <li className='list-inline-item'>
-                        <a href='#' target='_blank'>
+                        <a href='https://github.com/SamKlep' target='_blank' rel="noopener noreferrer">
                           <i className='fa fa-github' />
                         </a>
                       </li>
                       <li className='list-inline-item'>
-                        <a href='#' target='_blank'>
+                        <a href='https://digitalcrafts.slack.com/team/samuelklepper' target='_blank' rel="noopener noreferrer">
                           <i className='fa fa-slack' />
                         </a>
                       </li>
                       <li className='list-inline-item'>
-                        <a href='#' target='_blank'>
+                        <a href='https://www.linkedin.com/in/samuel-klepper-0435b5193/' target='_blank' rel="noopener noreferrer">
                           <i className='fa fa-linkedin' />
                         </a>
                       </li>
@@ -72,11 +72,12 @@ class Footer extends React.Component {
           </div>
           <div className='copyright-text'>
             Copyright © 2020{' '}
-            <a href='#'>
+            <a href='/'>
               <img
                 src='/assets/images/sk-logo-4.png'
                 width={80}
                 height={80}
+                alt=''
               ></img>
             </a>
           </div>
