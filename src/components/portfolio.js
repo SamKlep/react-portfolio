@@ -14,8 +14,7 @@ const Portfolio = () => {
                 <span className='span-inline' />
               </h2>
               <p className='title-desc'>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum standard dummy text.
+                Here are a few of the latest projects that I have been working on.
               </p>
             </div>
           </div>
@@ -31,8 +30,8 @@ const Portfolio = () => {
               <div className='blog-thumb'>
                 <NavLink to='/blog-details'>
                   <img
-                    src='assets/images/blog-1.jpg'
-                    alt='Ten Secrets You Will Not Want To Know'
+                    src='assets/images/cryptonews.png'
+                    alt='Crypto News Network'
                   />
                 </NavLink>
               </div>
@@ -41,20 +40,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='#'> admin</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
                     <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Tuesday
                     </li>
-                    <li className='list-inline-item'>
-                      <i className='fa fa-comments' />3
-                    </li>
+                
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='/blog-details'>
-                    Ten Secrets You Will Not Want To Know
+                  Latest Crypto News and Prices
                   </NavLink>
                 </h5>
                 <NavLink to='/blog-details'>
@@ -72,8 +69,8 @@ const Portfolio = () => {
               <div className='blog-thumb'>
                 <NavLink to='/blog-details'>
                   <img
-                    src='assets/images/blog-2.jpg'
-                    alt='You’ve gotta dance like there’s nobody watching'
+                    src='assets/images/contactkeeper.png'
+                    alt='Keep your contacts in one place'
                   />
                 </NavLink>
               </div>
@@ -82,20 +79,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='#'> admin</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
                     <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Wednesday
                     </li>
-                    <li className='list-inline-item'>
-                      <i className='fa fa-comments' />3
-                    </li>
+                   
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='/blog-details'>
-                    You’ve gotta dance like there’s nobody watching
+                  Keep All Your Contacts in One Place
                   </NavLink>
                 </h5>
                 <NavLink to='/blog-details'>
@@ -113,8 +108,8 @@ const Portfolio = () => {
               <div className='blog-thumb'>
                 <NavLink to='/blog-details'>
                   <img
-                    src='assets/images/blog-3.jpg'
-                    alt='I must explain to you how all this mistaken idea'
+                    src='assets/images/findahouse.png'
+                    alt='Real Estate Registry for Realtor to list and sell houses'
                   />
                 </NavLink>
               </div>
@@ -123,20 +118,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='#'> admin</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
                     <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Saturday
                     </li>
-                    <li className='list-inline-item'>
-                      <i className='fa fa-comments' />3
-                    </li>
+                    
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='/blog-details'>
-                    I must explain to you how all this mistaken idea
+                  A Place for Realtors to list and sell houses
                   </NavLink>
                 </h5>
                 <NavLink to='/blog-details'>
