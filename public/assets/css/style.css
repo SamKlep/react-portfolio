@@ -21,7 +21,7 @@
 --------------------------------------------------------------*/
 body {
     font-family: Poppins;
-    background: rgb(85, 85, 85);
+    background: #0C0032;
     color: #dfdfdf;
     line-height: 26px;
 }
@@ -265,7 +265,7 @@ button:focus {
 }
 
 .alt-color {
-    background: rgb(71, 71, 71);
+    background: #282828;
 }
 
 #sam-face {
@@ -365,8 +365,6 @@ body.admin-bar .fixed-top {
     margin: 0 auto;
     overflow: hidden;
 }
-
-.about_me_image img {}
 
 .banner .social {
     margin-top: 100px;
@@ -1725,7 +1723,7 @@ body.admin-bar .fixed-top {
 --------------------------------------------------------------*/
 
 .site-footer {
-    background: rgb(165, 165, 165);
+    background: #0C0032;
     text-align: center;
     padding: 100px 0 0;
 }
