@@ -1249,7 +1249,7 @@ body.admin-bar .fixed-top {
 
 .post-item-content {
     padding: 45px;
-    background: rgb(165, 165, 165);
+    background: #282828;
 }
 
 .post-item-content h3 {
@@ -1352,7 +1352,7 @@ body.admin-bar .fixed-top {
 # Widget
 --------------------------------------------------------------*/
 .widget-area .widget {
-    background: rgb(165, 165, 165);
+    background: #282828;
     padding: 30px;
     margin-bottom: 50px;
     border-radius: 6px;

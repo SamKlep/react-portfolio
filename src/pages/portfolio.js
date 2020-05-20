@@ -13,14 +13,14 @@ const Portfolio = () => {
 							<div className="post-item wow fadeInUp" data-wow-delay="0.2s">
 								<div className="post-item-image">
 									<Link to="/blog-details">
-										<img src="assets/images/blog-1-1280x600.jpg" alt="Thumbnail" />
+										<img src="assets/images/cryptonews.png" alt="Crypto News Network" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href="#" className="link">admin</a><i className="fa ml-4 fa-calendar-o" />October 29, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />October 29, 2019</span>
 										<Link to="/blog-details">
-											<h3>Ten Secrets You Will Not Want To Know</h3>
+											<h3>Latest Crypto News and Prices</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
 									</div>
@@ -29,14 +29,14 @@ const Portfolio = () => {
 							<div className="post-item wow fadeInUp" data-wow-delay="0.4s">
 								<div className="post-item-image">
 									<Link to="/blog-details">
-										<img src="assets/images/blog-2-1280x600.jpg" alt="Thumbnail" />
+										<img src="assets/images/contactkeeper.png" alt="Keep your contacts in one place" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href="#" className="link">admin</a><i className="fa ml-4 fa-calendar-o" />June 12, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />June 12, 2019</span>
 										<Link exact to="/blog-details">
-											<h3>You’ve gotta dance like there’s nobody watching</h3>
+											<h3>Keep All Your Contacts in One Place</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
 									</div>
@@ -45,14 +45,14 @@ const Portfolio = () => {
 							<div className="post-item wow fadeInUp" data-wow-delay="0.6s">
 								<div className="post-item-image">
 									<Link exact to="/blog-details">
-										<img src="assets/images/blog-3-1280x600.jpg" alt="Thumbnail" />
+										<img src="assets/images/findahouse.png" alt="Real Estate Registry for Realtor to list and sell houses" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href="#" className="link">admin</a><i className="fa ml-4 fa-calendar-o" />May 11, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />May 11, 2019</span>
 										<Link exact to="/blog-details">
-											<h3>I must explain to you how all this mistaken idea</h3>
+											<h3>A Place for Realtors to List and Sell Houses</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
 									</div>
@@ -75,17 +75,33 @@ const Portfolio = () => {
 								<div className="widget wow fadeInUp" data-wow-delay="0.2s">
 									<div className="author-widget text-center">
 										<h5>
-											Alex Smith </h5>
+											Samuel Klepper </h5>
 										<div className="author-widget-thumb mb-30 text-center">
-											<img src="assets/images/portfolio-man.png" alt="Alex Smith" />
+											<img src="assets/images/sam-face1.png" alt="Samuel Klepper" />
 										</div>
 										<p>There are many variations of passages of Lorem Ipsum available, but the majority have</p>
 										<div className="author-widget-social">
 											<ul className="list-inline mb-0">
-												<li className="list-inline-item"><a href="#"><i className="fa fa-google" /></a></li>
-												<li className="list-inline-item"><a href="#"><i className="fa fa-github" /></a></li>
-												<li className="list-inline-item"><a href="#"><i className="fa fa-slack" /></a></li>
-												<li className="list-inline-item"><a href="#"><i className="fa fa-linkedin" /></a></li>
+											<li className='list-inline-item'>
+                  <a href='mailto:samklepdev@gmail.com' target='_blank' rel="noopener noreferrer">
+                    <i className='fa fa-google' />
+                  </a>
+                </li>
+				<li className='list-inline-item'>
+                  <a href='https://github.com/SamKlep' target='_blank' rel="noopener noreferrer">
+                    <i className='fa fa-github' />
+                  </a>
+                </li>
+				<li className='list-inline-item'>
+                  <a href='https://digitalcrafts.slack.com/team/samuelklepper' target='_blank' rel="noopener noreferrer">
+                    <i className='fa fa-slack' />
+                  </a>
+                </li>
+				<li className='list-inline-item'>
+                  <a href='https://www.linkedin.com/in/samuel-klepper-0435b5193/' target='_blank' rel="noopener noreferrer">
+                    <i className='fa fa-linkedin' />
+                  </a>
+                </li>
 											</ul>
 										</div>
 									</div>

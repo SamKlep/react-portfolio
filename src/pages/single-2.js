@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import Breadcrumb from "../components/breadcrumb";
 import { Link, NavLink } from 'react-router-dom';
 
-const PortfolioSingle = () => {
+const PortfolioSingle2 = () => {
 
 	return (
 
@@ -136,4 +136,4 @@ const PortfolioSingle = () => {
 	)
 }
 
-export default PortfolioSingle;
+export default PortfolioSingle2;
