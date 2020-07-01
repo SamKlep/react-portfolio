@@ -33,7 +33,7 @@ class Footer extends React.Component {
                 <div className='col-lg-9 col-sm-10 mb-4'>
                   <div className='mb-5'>
                     <Link to='/' className='custom-logo-link' rel='home'>
-                      <img src='/assets/images/sk-logo-4.png' alt='logo' />
+                      <h2 className="custom-logo">Sk</h2>
                     </Link>
                   </div>
                   <p className='footer-text'>
@@ -73,12 +73,7 @@ class Footer extends React.Component {
           <div className='copyright-text'>
             Copyright © 2020{' '}
             <a href='/'>
-              <img
-                src='/assets/images/sk-logo-4.png'
-                width={80}
-                height={80}
-                alt=''
-              ></img>
+              <h2>Sk</h2>
             </a>
           </div>
         </footer>

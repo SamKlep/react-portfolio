@@ -315,8 +315,8 @@ body.admin-bar .fixed-top {
     display: inline-block;
 }
 
-.custom-logo-link img {
-    width: 110px;
+.custom-logo-link h2 {
+    font-size: 80px;
 }
 
 .navbar-nav a {
@@ -1771,11 +1771,12 @@ body.admin-bar .fixed-top {
 .copyright-text {
     padding: 30px 0;
     background: #190061;
+    text-align: center;
 }
 
-.copyright-text p {
+/* .copyright-text p {
     margin-bottom: 0;
-}
+} */
 
 /*--------------------------------------------------------------
 # Back to Top
