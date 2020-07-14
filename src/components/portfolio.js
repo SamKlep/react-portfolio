@@ -8,13 +8,16 @@ const Portfolio = () => {
         <div className='row justify-content-center'>
           <div className='col-lg-6'>
             <div className='section-title wow fadeInUp' data-wow-delay='0.2s'>
-              <span>Portfolio</span>
-              <h2>
+            <div className='section-title underline'>
+            <h2>
                 Latest Projects
                 <span className='span-inline' />
               </h2>
+           
+            </div>
+              
               <p className='title-desc'>
-                Here are a few of the latest projects that I have been working on.
+               These are a few of the latest projects that I have built. You can check out all my full work on my Portfolio page.
               </p>
             </div>
           </div>
@@ -51,7 +54,7 @@ const Portfolio = () => {
                 </div>
                 <h5>
                   <NavLink to='/blog-details'>
-                  Latest Crypto News and Prices
+                  Get the Latest Crypto News and Prices
                   </NavLink>
                 </h5>
                 <NavLink to='/blog-details'>

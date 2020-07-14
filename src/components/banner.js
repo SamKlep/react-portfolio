@@ -51,7 +51,7 @@ class Banner extends React.Component {
                 <h1>I am Samuel</h1>
                 <p>
                   A professinal designer turned developer with the eye for
-                  creative solutions.
+                  creative solutions and the will to get things done.
                 </p>
                 <ul className='list-inline'>
                   <li className='list-inline-item'>

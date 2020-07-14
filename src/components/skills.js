@@ -10,7 +10,7 @@ const Skills = () => {
               className='section-title mb-lg-0 mb-md-5'
               style={{ textAlign: 'left' }}
             >
-              <span>As an avid tech explorer</span>
+              <span>SKills</span>
               <h2>
                 I Consume Anything Tech
                 <span />
@@ -19,9 +19,10 @@ const Skills = () => {
                 Since the early days of AOL and Netscape, I have been exploring the World Wide Web with great awe and enthusiasm. Often overwhelmed by amount of information at our fingertips, I found the time to teach myself a lot of the basics of many languages-- though I did not get fully organized unil I completed my coursework at Digital Crafts.
               </p>
               <div style={{ textAlign: 'left' }}>
-                <a className='amike-btn bordered mt-3' href='#'>
-                  My Resume
+                <a className='amike-btn bordered mt-3' href='/assets/images/S.KlepperResume.pdf' download>
+                  Download My Resume
                 </a>
+				
               </div>
             </div>
           </div>

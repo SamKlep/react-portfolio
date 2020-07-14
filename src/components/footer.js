@@ -37,10 +37,7 @@ class Footer extends React.Component {
                     </Link>
                   </div>
                   <p className='footer-text'>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                    sed do eiusmod tempor inci- didunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exe- rcitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                   "Always strive to be the best you..."
                   </p>
                   <div className='footer-social'>
                     <ul className='list-inline'>
