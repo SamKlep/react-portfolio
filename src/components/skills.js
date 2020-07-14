@@ -10,13 +10,13 @@ const Skills = () => {
               className='section-title mb-lg-0 mb-md-5'
               style={{ textAlign: 'left' }}
             >
-              <span>I'm a avid tech explorer</span>
+              <span>As an avid tech explorer</span>
               <h2>
                 I Consume Anything Tech
                 <span />
               </h2>
               <p>
-                Since the early days of AOL and Netscape, I have been exploring the World Wide Web with great awe and enthusiasm. Often teaching myself the basics of many languages, though I did not get fully organized unil I completed my classes at Digital Crafts.
+                Since the early days of AOL and Netscape, I have been exploring the World Wide Web with great awe and enthusiasm. Often overwhelmed by amount of information at our fingertips, I found the time to teach myself a lot of the basics of many languages-- though I did not get fully organized unil I completed my coursework at Digital Crafts.
               </p>
               <div style={{ textAlign: 'left' }}>
                 <a className='amike-btn bordered mt-3' href='#'>
