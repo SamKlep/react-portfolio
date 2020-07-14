@@ -12,8 +12,8 @@ const Services = () => {
                 My Services <span className='span-inline' />
               </h2>
               <p className='title-desc'>
-                As a full-stack web developer, I deliver a wide range of custom
-                web solutions. With maximum effort and attention to details, I
+                As a full-stack web developer, I offer a wide range of custom
+                web solutions. With maximum effort and attention to detail, I
                 create web apps, services, and sites that accurately answer your
                 expectations and satisfy the specific needs of your company.
               </p>
