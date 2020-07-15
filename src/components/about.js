@@ -49,7 +49,9 @@ const About = () => {
                   <strong>
                     <span>Email:</span>
                   </strong>
+                  <a href="mailto:samklepdev@gmail.com">
                   <p>samklepdev@gmail.com</p>
+                  </a>
                 </div>
               </div>
               <div className='col-lg-6'>
@@ -65,7 +67,9 @@ const About = () => {
                   <strong>
                     <span>LinkedIn:</span>
                   </strong>
-                  <p>https://www.linkedin.com/in/samuel-klepper-0435b5193/</p>
+                  <p>
+                  <a href="https://www.linkedin.com/in/samuel-klepper-0435b5193/">www.linkedin.com/samuel-klepper</a>
+                  </p>
                 </div>
               </div>
             </div>

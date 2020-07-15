@@ -10,7 +10,10 @@ class NavBar extends React.Component {
           <nav className='navbar navbar-expand-lg'>
             <div className='container'>
               <Link to='/' className='custom-logo-link' rel='home'>
-               <h2 className='custom-logo'>Sk</h2>
+                <div className="laptop-sm">
+                  <img src="assets/images/sk-logo-4.png" />
+                </div>
+               {/* <h2 className='custom-logo'>Sk</h2> */}
               </Link>
               <button
                 className='navbar-toggler'

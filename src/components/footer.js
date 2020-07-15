@@ -33,11 +33,11 @@ class Footer extends React.Component {
                 <div className='col-lg-9 col-sm-10 mb-4'>
                   <div className='mb-5'>
                     <Link to='/' className='custom-logo-link' rel='home'>
-                      <h2 className="custom-logo">Sk</h2>
+                      <img className="custom-logo" src="/assets/images/sk-logo-4.png" />
                     </Link>
                   </div>
                   <p className='footer-text'>
-                   ...
+                
                   </p>
                   <div className='footer-social'>
                     <ul className='list-inline'>
@@ -69,8 +69,8 @@ class Footer extends React.Component {
           </div>
           <div className='copyright-text'>
             Copyright © 2020{' '}
-            <a href='/'>
-              <h2>Sk</h2>
+            <a href='mailto:samklepdev@gmail.com'>Samuel Klepper
+              
             </a>
           </div>
         </footer>
