@@ -37,7 +37,7 @@ class Footer extends React.Component {
                     </Link>
                   </div>
                   <p className='footer-text'>
-                   "Always strive to be the best you..."
+                   ...
                   </p>
                   <div className='footer-social'>
                     <ul className='list-inline'>
