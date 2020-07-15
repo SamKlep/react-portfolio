@@ -17,7 +17,7 @@ const Portfolio = () => {
             </div>
               
               <p className='title-desc'>
-               These are a few of the latest projects that I have built. You can check out all my full work on my Portfolio page.
+               These are a few of the latest projects that I have built. You can check out all my full work on my <a href="/portfolio">Portfolio</a> page.
               </p>
             </div>
           </div>
@@ -31,7 +31,7 @@ const Portfolio = () => {
               data-wow-delay='0.2s'
             >
               <div className='blog-thumb'>
-                <NavLink to='/blog-details'>
+                <NavLink to='/single'>
                   <img
                     src='assets/images/cryptonews.png'
                     alt='Crypto News Network'
@@ -53,11 +53,11 @@ const Portfolio = () => {
                   </ul>
                 </div>
                 <h5>
-                  <NavLink to='/blog-details'>
+                  <NavLink to='/single'>
                   Get the Latest Crypto News and Prices
                   </NavLink>
                 </h5>
-                <NavLink to='/blog-details'>
+                <NavLink to='/single'>
                   Read More
                   <i className='fa fa-fw fa-arrow-circle-right' />
                 </NavLink>
@@ -70,7 +70,7 @@ const Portfolio = () => {
               data-wow-delay='0.4s'
             >
               <div className='blog-thumb'>
-                <NavLink to='/blog-details'>
+                <NavLink to='/single'>
                   <img
                     src='assets/images/contactkeeper.png'
                     alt='Keep your contacts in one place'
@@ -92,11 +92,11 @@ const Portfolio = () => {
                   </ul>
                 </div>
                 <h5>
-                  <NavLink to='/blog-details'>
+                  <NavLink to='/single'>
                   Keep All Your Contacts in One Place
                   </NavLink>
                 </h5>
-                <NavLink to='/blog-details'>
+                <NavLink to='/single'>
                   Read More
                   <i className='fa fa-fw fa-arrow-circle-right' />
                 </NavLink>
@@ -109,7 +109,7 @@ const Portfolio = () => {
               data-wow-delay='0.6s'
             >
               <div className='blog-thumb'>
-                <NavLink to='/blog-details'>
+                <NavLink to='/single'>
                   <img
                     src='assets/images/findahouse.png'
                     alt='Real Estate Registry for Realtor to list and sell houses'
@@ -131,11 +131,11 @@ const Portfolio = () => {
                   </ul>
                 </div>
                 <h5>
-                  <NavLink to='/blog-details'>
+                  <NavLink to='single'>
                   A Place for Realtors to List and Sell Houses
                   </NavLink>
                 </h5>
-                <NavLink to='/blog-details'>
+                <NavLink to='single'>
                   Read More
                   <i className='fa fa-fw fa-arrow-circle-right' />
                 </NavLink>

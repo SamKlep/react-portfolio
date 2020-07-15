@@ -68,7 +68,7 @@ const About = () => {
                     <span>LinkedIn:</span>
                   </strong>
                   <p>
-                  <a href="https://www.linkedin.com/in/samuel-klepper-0435b5193/">www.linkedin.com/samuel-klepper</a>
+                  <a href="https://www.linkedin.com/in/samuel-klepper-0435b5193/" target='_blank' rel="noopener noreferrer">www.linkedin.com/samuel-klepper</a>
                   </p>
                 </div>
               </div>

@@ -16,11 +16,11 @@ const PortfolioSingle = () => {
 		                <div className="entry-content">
 		                  <div className="single-post-image">
 		                    <img src="assets/images/cryptonews.png" alt="Crypto News Network" /> </div>
-		                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		                  <p>Have you ever wanted to stay up to date on all the latest crypto news, trends and prices but you are always busy or on the go?. Well now you can with all the latest information all in one convenient spot!</p>
 		                  <blockquote>
-		                    <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born.</p>
+		                    <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born."</p>
 		                  </blockquote>
-		                  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely.</p>
+		                  <p>Welcome to the Crypto News Network, ap place to force-feed yourself the latest and greatst in the cryptocurrency universe.</p>
 		                  <div className="row">
 		                    <div className="col-lg-6">
 		                      <img src="assets/images/blog-2.jpg" alt="Single" />

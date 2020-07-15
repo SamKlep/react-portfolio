@@ -18,7 +18,7 @@ function App() {
         <Route path='/portfolio'>
           <Portfolio />
         </Route>
-        <Route path='/blog-details'>
+        <Route path='/single'>
           <BlogSingle />
         </Route>
         <Route component={Error404} />
