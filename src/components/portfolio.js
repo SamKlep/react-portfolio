@@ -45,10 +45,10 @@ const Portfolio = () => {
                       <i className='fa fa-user' />
                       By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
-                    <li className='list-inline-item'>
+                    {/* <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Tuesday
-                    </li>
+                    </li> */}
                 
                   </ul>
                 </div>
@@ -84,10 +84,10 @@ const Portfolio = () => {
                       <i className='fa fa-user' />
                       By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
-                    <li className='list-inline-item'>
+                    {/* <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Wednesday
-                    </li>
+                    </li> */}
                    
                   </ul>
                 </div>
@@ -123,10 +123,10 @@ const Portfolio = () => {
                       <i className='fa fa-user' />
                       By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
                     </li>
-                    <li className='list-inline-item'>
+                    {/* <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
                       Saturday
-                    </li>
+                    </li> */}
                     
                   </ul>
                 </div>

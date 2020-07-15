@@ -13,7 +13,7 @@ const Contact = () => {
                 <span className='span-inline' />
               </h2>
               <p className='title-desc'>
-                Have an Idea for a project? Need assistance promoting your business? Go ahead and drop a line and I will get back to you promptly.
+                Reach out for further information reguarding projects and pricing, or if you just want to say Hello.
               </p>
             </div>
           </div>
