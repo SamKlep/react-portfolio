@@ -315,6 +315,11 @@ body.admin-bar .fixed-top {
     display: inline-block;
 }
 
+.logo {
+    height: 120px;
+    width: 100px;
+}
+
 .custom-logo-link h2 {
     font-size: 80px;
 }
