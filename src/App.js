@@ -4,6 +4,9 @@ import Footer from './components/footer';
 import Home from './pages/home';
 import Portfolio from './pages/portfolio';
 import BlogSingle from './pages/single';
+import PortfolioSingle from './pages/single';
+import PortfolioSingle2 from './pages/single2';
+import PortfolioSingle3 from './pages/single3';
 import Error404 from './pages/404';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
@@ -19,7 +22,13 @@ function App() {
           <Portfolio />
         </Route>
         <Route path='/single'>
-          <BlogSingle />
+          <PortfolioSingle />
+        </Route>
+        <Route path='/single2'>
+          <PortfolioSingle2 />
+        </Route>
+        <Route path='/single3'>
+          <PortfolioSingle3 />
         </Route>
         <Route component={Error404} />
       </Switch>

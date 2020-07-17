@@ -12,14 +12,14 @@ const Portfolio = () => {
 						<div className="col-xl-8 col-md-7">
 							<div className="post-item wow fadeInUp" data-wow-delay="0.2s">
 								<div className="post-item-image">
-									<Link to="/blog-details">
+									<Link to="/single">
 										<img src="assets/images/cryptonews.png" alt="Crypto News Network" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
 										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />October 29, 2019</span>
-										<Link to="/blog-details">
+										<Link to="/single">
 											<h3>Latest Crypto News and Prices</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
@@ -28,14 +28,14 @@ const Portfolio = () => {
 							</div>
 							<div className="post-item wow fadeInUp" data-wow-delay="0.4s">
 								<div className="post-item-image">
-									<Link to="/blog-details">
+									<Link to="/single2">
 										<img src="assets/images/contactkeeper.png" alt="Keep your contacts in one place" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
 										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />June 12, 2019</span>
-										<Link exact to="/blog-details">
+										<Link exact to="/single2">
 											<h3>Keep All Your Contacts in One Place</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
@@ -44,21 +44,21 @@ const Portfolio = () => {
 							</div>
 							<div className="post-item wow fadeInUp" data-wow-delay="0.6s">
 								<div className="post-item-image">
-									<Link exact to="/blog-details">
+									<Link exact to="/single3">
 										<img src="assets/images/findahouse.png" alt="Real Estate Registry for Realtor to list and sell houses" />
 									</Link>
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
 										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />May 11, 2019</span>
-										<Link exact to="/blog-details">
+										<Link exact to="/single3">
 											<h3>A Place for Realtors to List and Sell Houses</h3>
 										</Link>
 										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
 									</div>
 								</div>
 							</div>
-							<div className="text-center">
+							{/* <div className="text-center">
 								<nav className="navigation pagination" role="navigation" aria-label=" ">
 									<h2 className="screen-reader-text"> </h2>
 									<div className="nav-links">
@@ -68,8 +68,8 @@ const Portfolio = () => {
 										<a className="next page-numbers" href="#"><span>→ <i /></span></a>
 									</div>
 								</nav>
-							</div>
-						</div>
+							</div> */}
+						{/* </div>
 						<div className="col-xl-4 col-md-5">
 							<aside id="secondary" className="widget-area">
 								<div className="widget wow fadeInUp" data-wow-delay="0.2s">
@@ -194,7 +194,7 @@ const Portfolio = () => {
 								</div>
 							</aside>{/* #secondary */}
 						</div>
-					</div>
+					</div> 
 				</div>{/* /.container */}
 			</div>{/* /.amike-wrapper */}
 		</Fragment>

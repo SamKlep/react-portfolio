@@ -70,7 +70,7 @@ const Portfolio = () => {
               data-wow-delay='0.4s'
             >
               <div className='blog-thumb'>
-                <NavLink to='/single'>
+                <NavLink to='/single2'>
                   <img
                     src='assets/images/contactkeeper.png'
                     alt='Keep your contacts in one place'
@@ -92,11 +92,11 @@ const Portfolio = () => {
                   </ul>
                 </div>
                 <h5>
-                  <NavLink to='/single'>
+                  <NavLink to='/single2'>
                   Keep All Your Contacts in One Place
                   </NavLink>
                 </h5>
-                <NavLink to='/single'>
+                <NavLink to='/single2'>
                   Read More
                   <i className='fa fa-fw fa-arrow-circle-right' />
                 </NavLink>
@@ -109,7 +109,7 @@ const Portfolio = () => {
               data-wow-delay='0.6s'
             >
               <div className='blog-thumb'>
-                <NavLink to='/single'>
+                <NavLink to='/single3'>
                   <img
                     src='assets/images/findahouse.png'
                     alt='Real Estate Registry for Realtor to list and sell houses'
@@ -131,11 +131,11 @@ const Portfolio = () => {
                   </ul>
                 </div>
                 <h5>
-                  <NavLink to='single'>
+                  <NavLink to='single3'>
                   A Place for Realtors to List and Sell Houses
                   </NavLink>
                 </h5>
-                <NavLink to='single'>
+                <NavLink to='single3'>
                   Read More
                   <i className='fa fa-fw fa-arrow-circle-right' />
                 </NavLink>

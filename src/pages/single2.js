@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import Breadcrumb from "../components/breadcrumb";
 import { Link, NavLink } from 'react-router-dom';
 
-const PortfolioSingle = () => {
+const PortfolioSingle2 = () => {
 
 	return (
 
@@ -15,7 +15,7 @@ const PortfolioSingle = () => {
 		              <article>
 		                <div className="entry-content">
 		                  <div className="single-post-image">
-		                    <img src="assets/images/cryptonews.png" alt="Crypto News Network" /> </div>
+		                    <img src="/assets/images/contactkeeper.png" alt="Crypto News Network" /> </div>
 		                  <p>Have you ever wanted to stay up to date on all the latest crypto news, trends and prices but you are always busy or on the go?. Well now you can with all the latest information all in one convenient spot!</p>
 		                  <blockquote>
 		                    <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born."</p>
@@ -67,4 +67,4 @@ const PortfolioSingle = () => {
 	)
 }
 
-export default PortfolioSingle;
+export default PortfolioSingle2;
