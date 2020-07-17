@@ -18,7 +18,7 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />October 29, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />November 11, 2019</span>
 										<Link to="/single">
 											<h3>Latest Crypto News and Prices</h3>
 										</Link>
@@ -34,7 +34,7 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />June 12, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />January 12, 2020</span>
 										<Link exact to="/single2">
 											<h3>Keep All Your Contacts in One Place</h3>
 										</Link>
@@ -50,7 +50,7 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />May 11, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />March 26, 2020</span>
 										<Link exact to="/single3">
 											<h3>A Place for Realtors to List and Sell Houses</h3>
 										</Link>
