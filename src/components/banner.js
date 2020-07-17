@@ -55,7 +55,7 @@ class Banner extends React.Component {
                 </p>
                 <ul className='list-inline'>
                   <li className='list-inline-item'>
-                    <a href='portfolio'>My Portfolio </a>
+                    <a href='portfolio'>Portfolio </a>
                   </li>
                   {/* <li className='list-inline-item'>
                     <a
