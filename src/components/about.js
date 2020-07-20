@@ -19,7 +19,7 @@ const About = () => {
           >
             <img
               id='sam-face'
-              src='/assets/images/sam-face1.png'
+              src='/assets/images/sam_portfolio_face.png'
               title='me-01'
               alt='me-01'
             />

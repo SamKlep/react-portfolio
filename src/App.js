@@ -3,7 +3,6 @@ import NavBar from './components/navbar';
 import Footer from './components/footer';
 import Home from './pages/home';
 import Portfolio from './pages/portfolio';
-import BlogSingle from './pages/single';
 import PortfolioSingle from './pages/single';
 import PortfolioSingle2 from './pages/single2';
 import PortfolioSingle3 from './pages/single3';
