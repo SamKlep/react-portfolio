@@ -2017,9 +2017,12 @@ body.admin-bar .fixed-top {
 
 @media (max-width: 991px) {
 
-    .banner .about_me_image {
-        display: none;
+    img .self-portrait {
+        max-width: 400px;
+        height: auto;
     }
+
+    
 
     .banner {
         padding-bottom: 100px;
@@ -2068,6 +2071,12 @@ body.admin-bar .fixed-top {
 }
 
 @media (max-width: 768px) {
+
+    img .self-portrait {
+        max-width: 400px;
+        height: auto;
+    }
+
     .navbar-nav .nav-link {
         padding: 15px;
         background: #23263a;
@@ -2159,6 +2168,11 @@ body.admin-bar .fixed-top {
 
 
 @media (max-width: 481px) {
+
+    img .self-portrait {
+        max-width: 200px;
+        height: auto;
+    }
 
     .banner h1 {
         white-space: unset;

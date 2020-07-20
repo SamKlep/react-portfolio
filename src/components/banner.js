@@ -84,7 +84,7 @@ class Banner extends React.Component {
                   width={508}
                   height={729}
                   src='/assets/images/sam_portfolio.JPG'
-                  className='attachment-full size-full'
+                  className='attachment-full size-full self-portrait'
                   alt='Samuel K'
                 />{' '}
               </div>
