@@ -18,11 +18,11 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />November 11, 2019</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />November 2019</span>
 										<Link to="/single">
-											<h3>Latest Crypto News and Prices</h3>
+											<h3>Crypto News Network</h3>
 										</Link>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+										<p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. This was a front-end project to showcase HTML and API calling.</p>
 									</div>
 								</div>
 							</div>
@@ -34,11 +34,11 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />January 12, 2020</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />January 2020</span>
 										<Link exact to="/single2">
-											<h3>Keep All Your Contacts in One Place</h3>
+											<h3>Contact Keeper</h3>
 										</Link>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+										<p>A full-stack MERN application that stores the user's contacts on the Atlas MongoDB cloud.</p>
 									</div>
 								</div>
 							</div>
@@ -50,11 +50,11 @@ const Portfolio = () => {
 								</div>
 								<div className="post-item-content row">
 									<div className="col-md-12">
-										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />March 26, 2020</span>
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a><i className="fa ml-4 fa-calendar-o" />March 2020</span>
 										<Link exact to="/single3">
-											<h3>A Place for Realtors to List and Sell Houses</h3>
+											<h3>Find a House</h3>
 										</Link>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+										<p>A full-stack Django application where a realtor can list houses for sale and and interact with buyers. </p>
 									</div>
 								</div>
 							</div>
