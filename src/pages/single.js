@@ -34,7 +34,7 @@ const PortfolioSingle = () => {
 		                  </div>
 						  <br />
 		                  <h5>Introducing, the Crypto News Network!</h5>
-		                  <p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. This was a front-end project to showcase HTML and API calling.</p>
+		                  <p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. This was a front-end project to showcase HTML and API calling. Hosted on Heroku.</p>
 		                   <ul>
 		                    <li>Look up prices of any coin</li>
 		                    <li>Get up to the minute news</li>
