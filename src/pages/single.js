@@ -15,34 +15,39 @@ const PortfolioSingle = () => {
 		              <article>
 		                <div className="entry-content">
 		                  <div className="single-post-image">
-		                    <img src="assets/images/cryptonews.png" alt="Crypto News Network" /> </div>
-		                  <p>Have you ever wanted to stay up to date on all the latest crypto news, trends and prices but you are always busy or on the go?. Well now you can with all the latest information all in one convenient spot!</p>
+							  <a href="https://evening-meadow-70637.herokuapp.com/" target="_blank">
+		                    <img src="assets/images/cryptonews.png" alt="Crypto News Network" /> 
+							</a>
+							</div>
+		                  <h2>Crypto News Network!</h2>
 		                  <blockquote>
-		                    <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born."</p>
+		                    <p>"Your Source For Up to The Minute Crypto Currency and Blockchain News!"</p>
 		                  </blockquote>
-		                  <p>Welcome to the Crypto News Network, ap place to force-feed yourself the latest and greatst in the cryptocurrency universe.</p>
+		                  <p>Have you ever wanted to stay up to date on all the latest crypto news, trends and prices but you are always busy or on the go? Well now you can with all the latest information all in one convenient spot!</p>
 		                  <div className="row">
 		                    <div className="col-lg-6">
-		                      <img src="assets/images/blog-2.jpg" alt="Single" />
+		                      <img src="/assets/images/cryptoNewsStories.png" alt="Stories" />
 		                    </div>
 		                    <div className="col-lg-6">
-		                      <img src="assets/images/blog-3.jpg" alt="Single" />
+		                      <img src="/assets/images/cryptoPriceLookup.png" alt="Price Lookup" />
 		                    </div>
 		                  </div>
-		                  <h5>So where to from here then?</h5>
-		                  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. annoying consequences, or one who avoids a pain that produces .</p>
-		                  <ul>
-		                    <li>anyone who loves</li>
-		                    <li>occasionally circumstances</li>
-		                    <li>physical exercise</li>
-		                    <li>But who has any right to find</li>
-		                  </ul>
-		                  <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+						  <br />
+		                  <h5>Introducing, the Crypto News Network!</h5>
+		                  <p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. This was a front-end project to showcase HTML and API calling.</p>
+		                   <ul>
+		                    <li>Look up prices of any coin</li>
+		                    <li>Get up to the minute news</li>
+		                    <li>24 hr high/low</li>
+		                    <li>Market cap</li>
+		                  </ul> 
+		                  <p>With today's fast paced society, you'd be falling behind to not adopt these new financial practices! Bookmark the Crypto News Network today!</p> 
 		                  <span className="post-tag">
 		                    Tags :
 		                    <a href="#" rel="tag">Crypto</a>
 		                    <a href="#" rel="tag">Django</a>
 		                    <a href="#" rel="tag">API</a>
+		                    <a href="#" rel="tag">HTML</a>
 		                  </span>
 		                </div>{/* .entry-content */}
 		              </article>{/* #post-1911 */}
@@ -50,10 +55,10 @@ const PortfolioSingle = () => {
 		                <h2 className="screen-reader-text">Post navigation</h2>
 		                <div className="nav-links">
 		                  <div className="nav-previous">
-		                    <Link to="/blog-details" rel="prev">« Prev Post</Link>
+		                    <Link to="/single3" rel="prev">« Prev Project</Link>
 		                  </div>
 		                  <div className="nav-next">
-		                    <Link to="/blog-details" rel="next">Next Post »</Link>
+		                    <Link to="/single2" rel="next">Next Project »</Link>
 		                  </div>
 		                </div>
 		              </nav>
