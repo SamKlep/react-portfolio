@@ -83,8 +83,7 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>Photography</h5>
                 <p>
-                  Creative eye for design that captivates the viewer with every
-                  shot
+                  Creative eye for design that captivates the viewer yet stays relevant to the source material.
                 </p>
               </div>
             </div>
@@ -97,8 +96,7 @@ const Services = () => {
               <div className='item-service-content'>
                 <h5>SEO Expert</h5>
                 <p>
-                  Always optimizing content for the best placement in search
-                  engine queries
+                  Always optimizing for the best placement for your business' visibility in search queries.
                 </p>
               </div>
             </div>
