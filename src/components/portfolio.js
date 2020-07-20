@@ -43,18 +43,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel K</a>
                     </li>
-                    {/* <li className='list-inline-item'>
+                    <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
-                      Tuesday
-                    </li> */}
+                      November 2019
+                    </li>
                 
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='/single'>
-                  Get the Latest Crypto News and Prices
+                  Crypto News Network
                   </NavLink>
                 </h5>
                 <NavLink to='/single'>
@@ -82,18 +82,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel K</a>
                     </li>
-                    {/* <li className='list-inline-item'>
+                    <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
-                      Wednesday
-                    </li> */}
+                      January 2020
+                    </li>
                    
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='/single2'>
-                  Keep All Your Contacts in One Place
+                  Contact Keeper
                   </NavLink>
                 </h5>
                 <NavLink to='/single2'>
@@ -121,18 +121,18 @@ const Portfolio = () => {
                   <ul className='list-inline'>
                     <li className='list-inline-item'>
                       <i className='fa fa-user' />
-                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel</a>
+                      By<a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel K</a>
                     </li>
-                    {/* <li className='list-inline-item'>
+                    <li className='list-inline-item'>
                       <i className='fa fa-calendar-o' />
-                      Saturday
-                    </li> */}
+                      March 2020
+                    </li>
                     
                   </ul>
                 </div>
                 <h5>
                   <NavLink to='single3'>
-                  A Place for Realtors to List and Sell Houses
+                  Find a House
                   </NavLink>
                 </h5>
                 <NavLink to='single3'>
