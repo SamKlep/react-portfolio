@@ -7,7 +7,7 @@ import Skills from '../components/skills';
 // import Counter from '../components/counter';
 // import Testimonials from '../components/testimonials';
 // import Partner from '../components/partner';
-import Contact from '../components/contact';
+import ContactEmail from '../components/ContactEmail';
 import Portfolio from '../components/portfolio';
 
 const Home = () => {
@@ -22,7 +22,7 @@ const Home = () => {
       <Testimonials /> */}
       {/* <Partner /> */}
       <Portfolio />
-      <Contact />
+      <ContactEmail />
     </Fragment>
   );
 };
