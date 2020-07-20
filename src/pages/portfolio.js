@@ -22,7 +22,7 @@ const Portfolio = () => {
 										<Link to="/single">
 											<h3>Crypto News Network</h3>
 										</Link>
-										<p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. This was a front-end project to showcase HTML and API calling.</p>
+										<p>A simple web application using Django, Python, HTML and Bootstrap that connects to a third party crypto API. </p>
 									</div>
 								</div>
 							</div>
