@@ -15,34 +15,39 @@ const PortfolioSingle3 = () => {
 		              <article>
 		                <div className="entry-content">
 		                  <div className="single-post-image">
-		                    <img src="/assets/images/findahouse.png" alt="Crypto News Network" /> </div>
-		                  <p>Have you ever wanted to stay up to date on all the latest crypto news, trends and prices but you are always busy or on the go?. Well now you can with all the latest information all in one convenient spot!</p>
+							  <a href="https://findahouse.herokuapp.com/" target="_blank">
+		                    <img src="assets/images/findahouse.png" alt="Find a House" /> 
+							</a>
+							</div>
+		                  <h2>Find a House</h2>
 		                  <blockquote>
-		                    <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born."</p>
+		                    <p>"Property Searching Just Got So Easy!"</p>
 		                  </blockquote>
-		                  <p>Welcome to the Crypto News Network, ap place to force-feed yourself the latest and greatst in the cryptocurrency universe.</p>
+		                  <p>Are you in the market for a new house? Are you a busy professional with barely any time for yourself? Then leave all the heavy lifting to the friendly realtors over at <strong>Find a House</strong>.</p>
 		                  <div className="row">
 		                    <div className="col-lg-6">
-		                      <img src="assets/images/blog-2.jpg" alt="Single" />
+		                      <img src="/assets/images/findLogin.png" alt="Login" />
 		                    </div>
 		                    <div className="col-lg-6">
-		                      <img src="assets/images/blog-3.jpg" alt="Single" />
+		                      <img src="/assets/images/findDashboard.png" alt="Dashboard" />
 		                    </div>
 		                  </div>
-		                  <h5>So where to from here then?</h5>
-		                  <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. annoying consequences, or one who avoids a pain that produces .</p>
-		                  <ul>
-		                    <li>anyone who loves</li>
-		                    <li>occasionally circumstances</li>
-		                    <li>physical exercise</li>
-		                    <li>But who has any right to find</li>
-		                  </ul>
-		                  <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure</p>
+						  <br />
+		                  <h5><u>Let us help you-- Find a House!</u></h5>
+		                  <p>A full-stack Django application where a realtor can list houses for sale and and interact with buyers. This was my capstone project that demonstrated all the knowledge I learned going through the full-stack web development bootcamp over at <a href="https://www.digitalcrafts.com/">Digital Crafts</a>. Hosted on Heroku.</p>
+		                   <ul>
+		                    <li>Create an account</li>
+		                    <li>List house ads</li>
+		                    <li>Send and receive messages from clients</li>
+		                    <li>Upload pictures</li>
+		                  </ul> 
+		                  <p>Take the hassle out of the house searching with the lovely folks over at<strong> Find a House!</strong></p> 
 		                  <span className="post-tag">
 		                    Tags :
-		                    <a href="#" rel="tag">Crypto</a>
 		                    <a href="#" rel="tag">Django</a>
-		                    <a href="#" rel="tag">API</a>
+		                    <a href="#" rel="tag">Python</a>
+		                    <a href="#" rel="tag">Mongo</a>
+		                    <a href="#" rel="tag">HTML</a>
 		                  </span>
 		                </div>{/* .entry-content */}
 		              </article>{/* #post-1911 */}
@@ -50,10 +55,10 @@ const PortfolioSingle3 = () => {
 		                <h2 className="screen-reader-text">Post navigation</h2>
 		                <div className="nav-links">
 		                  <div className="nav-previous">
-		                    <Link to="/blog-details" rel="prev">« Prev Post</Link>
+		                    <Link to="/single2" rel="prev">« Prev Project</Link>
 		                  </div>
 		                  <div className="nav-next">
-		                    <Link to="/blog-details" rel="next">Next Post »</Link>
+		                    <Link to="/single" rel="next">Next Project »</Link>
 		                  </div>
 		                </div>
 		              </nav>

@@ -33,8 +33,8 @@ const PortfolioSingle2 = () => {
 		                    </div>
 		                  </div>
 						  <br />
-		                  <h5>Introducing, Contact Keeper!</h5>
-		                  <p>A full-stack MERN application that stores the user's data on the Atlas MongoDB cloud. This was a full-stack project that demonstrates knowledge of uniting the front and back ends. Hosted on Heroku</p>
+		                  <h5><u>Introducing, Contact Keeper!</u></h5>
+		                  <p>A full-stack MERN application that stores the user's data on the Atlas MongoDB cloud. This was a full-stack project that demonstrates knowledge of uniting the front and back ends. Hosted on Heroku.</p>
 		                   <ul>
 		                    <li>Create an account</li>
 		                    <li>Add contacts and information</li>
