@@ -31,7 +31,7 @@ const About = () => {
             <br></br>
             <div className='about-me-description'>
             <p className='title-desc'>
-                When not busy researching the latest trends in Javascript and web development, I like to enjoy the great outdoors as much as possible with my lovely canine companion. I also enjoy taking care of my 3 cats, tending to my garden and reading a good book. 
+                When not busy researching the latest trends in Javascript and web development, I like to enjoy the great outdoors as much as possible with my lovely canine companion. I also enjoy tinkering with my Arduino and Raspberry Pi, taking care of my 3 cats and reading a good book. 
               </p>
               <br />
             </div>
