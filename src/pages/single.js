@@ -19,7 +19,7 @@ const PortfolioSingle = () => {
 		                    <img src="assets/images/cryptonews.png" alt="Crypto News Network" /> 
 							</a>
 							</div>
-		                  <h2>Crypto News Network!</h2>
+		                  <h2>Crypto News Network</h2>
 		                  <blockquote>
 		                    <p>"Your Source For Up to The Minute Crypto Currency and Blockchain News!"</p>
 		                  </blockquote>
