@@ -34,7 +34,7 @@ const PortfolioSingle3 = () => {
 		                  </div>
 						  <br />
 		                  <h5><u>Let us help you-- Find a House!</u></h5>
-		                  <p>A full-stack Django application where a realtor can list houses for sale and and interact with buyers. This was my capstone project that demonstrated all the knowledge I learned going through the full-stack web development bootcamp over at <a href="https://www.digitalcrafts.com/">Digital Crafts</a>. Hosted on Heroku.</p>
+		                  <p>A full-stack Django application where a realtor can list houses for sale and and interact with buyers. This was my capstone project that demonstrated all the knowledge I learned going through the full-stack web development bootcamp over at <a href="https://www.digitalcrafts.com/" target="_blank">Digital Crafts</a>. Hosted on Heroku.</p>
 		                   <ul>
 		                    <li>Create an account</li>
 		                    <li>List house ads</li>

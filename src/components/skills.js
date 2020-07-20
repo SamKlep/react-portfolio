@@ -16,7 +16,7 @@ const Skills = () => {
                 <span />
               </h2>
               <p>
-                Since the early days of the internet, I have been exploring the world wide web with great awe and enthusiasm. Often overwhelmed by the amount of information at my fingertips, I found the time to teach myself a lot of the basics of many programming languages-- though I did not get fully organized unil I completed my coursework at Digital Crafts.
+                Since the early days of the internet, I have been exploring the world wide web with great awe and enthusiasm. Often overwhelmed by the amount of information at my fingertips, I found the time to teach myself a lot of the basics of many programming languages-- though I did not get fully organized unil I completed my coursework at <a href="https://www.digitalcrafts.com/" target="_blank">Digital Crafts</a>.
               </p>
               <div style={{ textAlign: 'left' }}>
                 <a className='amike-btn bordered mt-3' href='/assets/images/S.KlepperResume.pdf' download>
