@@ -58,7 +58,7 @@ const PortfolioSingle3 = () => {
 		                    <Link to="/single2" rel="prev">« Prev Project</Link>
 		                  </div>
 		                  <div className="nav-next">
-		                    <Link to="/single" rel="next">Next Project »</Link>
+		                    <Link to="/single4" rel="next">Next Project »</Link>
 		                  </div>
 		                </div>
 		              </nav>

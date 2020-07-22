@@ -6,6 +6,7 @@ import Portfolio from './pages/portfolio';
 import PortfolioSingle from './pages/single';
 import PortfolioSingle2 from './pages/single2';
 import PortfolioSingle3 from './pages/single3';
+import PortfolioSingle4 from './pages/single4';
 import Error404 from './pages/404';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
@@ -28,6 +29,9 @@ function App() {
         </Route>
         <Route path='/single3'>
           <PortfolioSingle3 />
+        </Route>
+        <Route path='/single4'>
+          <PortfolioSingle4 />
         </Route>
         <Route component={Error404} />
       </Switch>

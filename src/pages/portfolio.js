@@ -58,6 +58,23 @@ const Portfolio = () => {
 									</div>
 								</div>
 							</div>
+							<div className="post-item wow fadeInUp" data-wow-delay="0.6s">
+								<div className="post-item-image">
+									<Link exact to="/single4">
+										<img src="/assets/images/covidUs.png" alt="COVID-19 Tracker" />
+									</Link>
+								</div>
+								<div className="post-item-content row">
+									<div className="col-md-12">
+										<span><i className="fa fa-user" /> <a href='mailto:samklepdev@gmial.com' target='_blank' rel="noopener noreferrer"> Samuel K</a><i className="fa ml-4 fa-calendar-o" />May 2020</span>
+										<Link exact to="/single4">
+											<h3>COVID-19 Tracker</h3>
+										</Link>
+										<p>A simple front-end project built with React that uses a COVID-19 API to fetch real time data and Chart.JS to display the data on illustrated graphs.</p>
+									</div>
+								</div>
+							</div>
+
 							{/* <div className="text-center">
 								<nav className="navigation pagination" role="navigation" aria-label=" ">
 									<h2 className="screen-reader-text"> </h2>
